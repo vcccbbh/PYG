@@ -1,0 +1,318 @@
+﻿.main {
+
+}
+.main .main_title {
+    font-size:16px;
+    margin-bottom:20px;
+}
+
+.main .head1 {
+    background-color: #F5F5F5;
+    border: 1px solid #CCC;
+    height: 34px;
+    line-height: 34px;
+    width: 1198px;
+}
+.main .check1 {
+    margin-right: 10px;
+    margin-left: 4px;
+    margin-top:12px;
+}
+
+.main .head1_item {
+    margin-left:200px;
+}
+.main .head1_price {
+    margin-left: 330px;
+}
+.main .head1_amout {
+    margin-left: 110px;
+}
+.main .head1_total {
+    margin-left: 110px;
+}
+.main .head1_handle {
+    margin-left: 110px;
+}
+
+    .main .head2 {
+        border-bottom: 2px solid #CCC;
+        line-height: 43px;
+        height: 43px;
+    }
+.main .backred {
+    background-color:#C81623;
+    color:#fff;
+    padding:0 2px;
+}
+
+.main .body1 {
+    border: 1px solid #CCC;
+    border-bottom: none;
+    height: 630px;
+    margin-top: 20px;
+    width: 1198px;
+}
+    .main ul {
+        
+    }
+    .main .h_1 li {
+        height: 107px;
+        border-bottom: 1px solid #CCC;
+    }
+.main .h_2 li {
+    height: 201px;
+    border-bottom: 1px solid #CCC;
+}
+    .main  li:first-of-type {
+        width: 620px;
+    }
+.main  li:first-of-type p {
+            padding-top: 2px;
+        }
+    .main  li:nth-of-type(2) {
+        width: 130px;
+        font-size: 16px;
+    }
+    .main  li:nth-of-type(3) {
+        width: 183px;
+    }
+    .main  li:nth-of-type(4) {
+        width: 163px;
+        font-size: 16px;
+    }
+    .main  li:last-of-type {
+        width: 100px;
+    }
+    .main li {
+        padding-top: 12px;
+        float: left;
+    }
+    .main  input[type=checkbox],
+    .main  img {
+        float: left;
+        margin-right: 10px;
+    }
+    .main .body1 img{
+        margin-left: 2px;
+    }
+    .main  input[type=checkbox] {
+        margin-left: 10px;
+    }
+    
+    .main .form {
+        height: 28px;
+        width: 95px;
+        border: 1px solid #CCC;
+    }
+    .main .form .button {
+        height: 28px;
+        width: 28px;
+        line-height: 28px;
+        text-align: center;
+    }
+        .main .form .bl {
+            border-left: 1px solid #CCC;
+            color: #C81623;
+        }
+        .main .form input[type=text] {
+            height: 26px;
+            width: 37px;
+            line-height: 28px;
+            text-align: center;
+        }
+        .main .form .br {
+            border-right: 1px solid #CCC;
+        }
+    .main .prl_1 {
+        position: relative;
+        right: 59px;
+    }
+    .main .prr_1 {
+        position: relative;
+        left: 70px;
+    }
+
+    .main .pink {
+        background-color: #FEEDEF;
+        
+    }
+.main .top {
+    margin-bottom:20px;
+}
+    .main .top_1 {
+        display: block;
+        width: 44px;
+        height: 18px;
+        line-height: 18px;
+        text-align: center;
+        border: 1px solid #C81623;
+        margin-left: 4px;
+        margin-right:10px;
+    }
+    .main .top_2::after {
+        font-family: "icomoon";
+        content: "\e920";
+        margin:0 4px;
+    }
+    .main .top_3 {
+        color: #FFF;
+        background-color: #C81623;
+        height:19px;
+        line-height:19px;
+        width:70px;
+        text-align: center;
+        margin:0 10px 0 20px;
+    }
+    .main .top_4::after {
+        font-family: "icomoon";
+        content: "\e920";
+        margin: 0 120px 0 4px;
+    }
+    .main .gift {
+        position: relative;
+        top: 30px;
+        right: 60px;
+        display: block;
+    }
+.main .gift2 {
+    position: relative;
+    top: 50px;
+    right: 60px;
+    display: block;
+}
+    .main .gift::after,
+    .main .gift2::after {
+        margin-left: 60px;
+        content: "X1";
+    }
+    .main .clean {
+        clear: both;
+    }
+
+.main .lighted {
+    padding: 0 2px;
+    font-size:16px;
+}
+
+.main .body2 {
+    border: 1px solid #CCC;
+    border-bottom: none;
+    height: 201px;
+    margin-top: 20px;
+    width: 1198px;
+}
+    .main .img_spec {
+        margin-left:38px;
+    }
+
+
+    .main .body3 {
+        height: 50px;
+        line-height: 50px;
+        border: 1px solid #CCC;
+        margin-top:20px;
+    }
+
+    .main .check2 {
+        margin-top: 16px;
+    }
+
+
+    .main .btn_1 {
+        height: 48px;
+        width: 108px;
+        background-color: #C81623;
+        float: right;
+        text-align: center;
+        border: 1px solid #C81623;
+    }
+
+        .main .btn_1 a {
+            color: #fff;
+            font-size: 16px;
+        }
+    .main .span_1 {
+        position: relative;
+        right:10px;
+        bottom:10px;
+    }
+    .main .span_2 {
+        position: relative;
+        left: 244px;
+        top: 10px;
+    }
+.main .span_3 {
+    font-size:16px;
+}
+
+    .main .body4 {
+        height: 32px;
+        line-height: 32px;
+        background-color: #FFFDEE;
+    }
+    .main .span_4 {
+        margin:0 15px;
+    }
+    .main .body5 {
+        height: 380px;
+    }
+.main .body5 .head{
+    height: 39px;
+}
+.main  .span_5 {
+    margin-left:10px;
+}
+.main .span_6 {
+    margin-left: 335px;
+    font-size:16px;
+}
+    .main .span_7 {
+        margin-left: 135px;
+        font-size: 16px;
+    }
+    .main .span_8 {
+        height: 39px;
+        line-height: 39px;
+        text-align: center;
+        width: 87px;
+        background-color: #C81623;
+        border: 1px solid #ccc;
+        border-left: none;
+        color: #fff;
+        
+    }
+    .main .span_9 {
+        height: 39px;
+        line-height: 39px;
+        width: 1105px;
+        background-color: #F1F1F1;
+        padding-left: 18px;
+    }
+    .main .img_like {
+        display: block;
+        margin: 20px 0 0 40px;
+        border-right:1px dashed #ccc;
+    }
+    .main .div_like::before {
+        font-family: "icomoon";
+        content: "\e91f";
+        background-color: #ccc;
+        font-size: 18px;
+        padding: 16px 2px;
+        color: #fff;
+        position: relative;
+        top: 150px;
+        right: 1020px;
+    }
+    .main .div_like::after {
+        font-family: "icomoon";
+        content: "\e920";
+        background-color: #ccc;
+        font-size: 18px;
+        padding: 16px 2px;
+        color: #fff;
+        position: relative;
+        top: 150px;
+        left: 100px;
+    }

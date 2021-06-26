@@ -1,0 +1,202 @@
+﻿.title {
+    height:47px;
+}
+
+.main {
+    margin:0 auto;
+    height: 810px;
+    width: 1198px;
+    border:1px solid #DDD;
+    padding:20px 24px;
+}
+    .main .bb { border-bottom: 1px solid #EDEDED; }
+    .main .title {
+        padding: 20px 0 20px 28px;
+        font-size: 16px;
+    }
+    .main .title_2 {
+        padding: 20px 0 20px 28px;
+        font-size: 14px;
+    }
+    .main .pl_1 {
+        padding-left: 8px;
+    }
+    .main .pl_2 {
+        padding-left: 20px;
+    }
+    .main .ml_2 {
+        margin-left: 40px;
+    }
+    .main .ml_3 {
+        margin-left: 86px;
+    }
+    .main .ml_4 {
+        margin-left: 140px;
+    }
+    .main .pr {
+        padding-right: 20px;
+    }
+.main .pt_1 {
+    padding-top: 3px;
+}
+.main .pt_2 {
+    padding-top: 24px;
+}
+    .main .pt_3 {
+        padding-top: 16px;
+    }
+.main .mt_1 {
+    margin-top: 20px;
+}
+    .main .mt_2 {
+        margin-top: 24px;
+    }
+.main .add {
+    position:relative;
+    bottom:46px;
+}
+    .main .blue {
+        color: #1474AF;
+    }
+#more_addr {
+    max-width: 70px;
+    position: relative;
+    top: 16px;
+    left: 48px;
+    overflow:hidden;
+}
+    #more_addr::after,
+    #title_spec::after {
+        font-family: "icomoon";
+        content: "\e91e";
+    }
+.clear{
+    clear:both;
+}
+#method_spec {
+    margin-top: 20px;
+    height: 28px;
+    border: 1px solid #DDD;
+    padding-top: 3px;
+    border-left: none;
+    margin: 20px 0 0 0;
+}
+
+.main .receiver .sub1 {
+    height: 150px;
+}
+        .main .receiver .sub2 {
+            height: 70px;
+        }
+.main .block {
+    text-align: center;
+    margin-left: 50px;
+}
+.main .block_w1 {
+    width: 140px;
+}
+.main .block_w2 {
+    width: 100px;
+}
+        .main .block_1 {
+            height: 26px;
+            border: 2px solid red;
+            padding-top: 2px;
+        }
+.main .block_2 {
+    margin-top: 20px;
+    height: 28px;
+    border: 1px solid #DDD;
+    padding-top: 3px;
+}
+.main .payment {
+    /*height:104px;*/
+    height: 120px;
+}
+    .main .item_list {
+        height:320px;
+    }
+
+        .main .item_list .method {
+            height: 100px;
+            background-color: #F4F4F4;
+        }
+        .main .item_list .item {
+            height: 153px;
+            background-color: #FEEDEF;
+        }
+        .main .refund{
+            width:100px;
+        }
+.main .length_1 {
+    width: 335px;
+}
+.main .di {
+    display: inline-block;
+}
+
+.main .price {
+    font-size:14px;
+}
+.main .offest1 {
+    position: relative;
+    bottom:20px;
+}
+
+.sub{
+    height:100px;
+}
+
+.sub .ws{
+    font-weight:700;
+}
+
+.sub tr td{
+    /*float:right;*/
+
+}
+.sub table{
+    padding:20px 24px 0 0;
+}
+
+    .sub tr td:last-of-type {
+        width:130px;
+    }
+
+    .sub tr td>span {
+        float:right;
+    }
+.total {
+    height: 70px;
+    background-color: #F4F4F4;
+    border: 1px solid #DDD;
+}
+    .total > span {
+        float: right;
+    }
+    .total .money {
+        position: relative;
+        top: 10px;
+        right: 24px;
+    }
+    .total .addr {
+        position: relative;
+        top: 35px;
+        left: 112px;
+    }
+    .total .f16{
+        font-size:16px;
+    }
+
+
+.btn_s{
+    height:98px;
+}
+    .btn_s > button {
+        margin:20px 0 32px;
+        height: 46px;
+        width: 140px;
+        font-size: 20px;
+        color: #fff;
+        background-color: #DF3033;
+    }

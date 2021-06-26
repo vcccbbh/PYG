@@ -1,0 +1,74 @@
+.main {
+    height:486px;
+    background-color:#7E00FF;
+}
+    .main .bg_main {
+        height: inherit;
+        background : url(../upload/bg_01.png) no-repeat;
+    }
+    .main .login {
+        margin:62px 0;
+        padding: 20px 40px 12px 36px;
+        width:379px;
+        height: 362px;
+        background-color:#fff;
+    }
+        .main .login .head span {
+            font-size: 18px;
+        }
+.main .login .head {
+    width:270px;
+    margin:0 auto;
+}
+.main .login .tip {
+    margin:20px 0 0 0;
+    padding-left:12px;
+    background-color:#FFFBEE;
+    border:1px solid #F5EECF;
+}
+        .main .login .input_item {
+            
+            height: 36px;
+            width: 301px;
+        }
+
+        .main .login .input_item_1 {
+            margin: 10px 0;
+            border: 1px solid #3AA2E4;
+        }
+        .main .login .input_item_2 {
+            margin: 18px 0 22px;
+            border: 1px solid #BBBABA;
+        }
+
+.main .login .input_item img{
+    float: left;
+}
+
+        .main .login .input_item input[type=text],
+        .main .login .input_item input[type=password] { 
+            float: left;
+            height: 34px;
+            width: 262px;
+        }
+        .main .login label {
+            color: #B3B3B3;
+        }
+        .main .login input[type=submit] {
+            margin-top:10px;
+            width:303px;
+            height:41px;
+            background-color: #C81623;
+            color:#fff;
+        }
+    .main .links img {
+        position: relative;
+        top: 27px;
+        right: 21px;
+    }
+    .main .links span {
+        position: relative;
+        top: 2px;
+        left: 15px;
+        color: #1474AF;
+    }

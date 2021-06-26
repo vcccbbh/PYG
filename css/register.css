@@ -1,0 +1,97 @@
+﻿.registeration {
+    width: 1198px;
+    height: 520px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+}
+    .registeration .head {
+        height: 40px;
+        line-height: 40px;
+        background-color: #ececec;
+        border-bottom: 1px solid #ccc;
+    }
+        .registeration .head h3 {
+            padding-left: 10px;
+            float: left;
+            font-size: 18px;
+            font-weight: 400;
+            color: #333;
+        }
+        .registeration .head p {
+            float: right;
+            padding-right: 10px;
+            font-size: 14px;
+            color: #333;
+        }
+        .registeration .head a {
+            color: #df3033;
+        }
+
+    .registeration .body {
+        width: 580px;
+        height: 360px;
+        margin: 55px auto;
+    }
+        .registeration .body input[type=text],
+        .registeration .body input[type=password] {
+            width: 238px;
+            height: 36px;
+            margin: 0 0 20px 10px;
+            border: 1px solid #999;
+        }
+        .registeration .body th {
+            float:right;
+            font-size:16px;
+            font-weight:400;
+            padding-top:4px;
+        }
+        .registeration .body .safe{
+            position:relative;
+            bottom:12px;
+            left:68px;
+            width:200px;
+            height:20px;
+            color:#b3b3b3;
+        }
+        .registeration .body .safe span {
+            padding:0 14px;
+            color:#fff;
+        }
+    .registeration .low {
+        background-color: #df3033;
+    }
+    .registeration .middle {
+        background-color: #40b83f;
+    }
+    .registeration .strong {
+        background-color: #f79100;
+    }
+
+    .registeration .error {
+        width: 210px;
+        position: relative;
+        bottom: 9px;
+        left:8px;
+    }
+    .registeration .error::before {
+        content:url(../images/error.png);
+        float:left;
+        padding-right:4px;
+    }
+
+    .registeration .blue {
+        color:#93CAF0;
+    }
+#reg_check{
+    position:relative;
+    left:10px;
+}
+
+#reg_submit {
+    margin: 30px 0 0 20px;
+    border: none;
+    width: 200px;
+    height: 34px;
+    color: #fff;
+    background-color: #c81623;
+}
